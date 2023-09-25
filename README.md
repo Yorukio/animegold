@@ -1,0 +1,2 @@
+# animegold
+site de animes
